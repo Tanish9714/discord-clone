@@ -25,3 +25,17 @@
     height: 100px;
     object-fit: contain;
 }
+
+
+@media screen and (max-width: 768px){
+    .login > button{
+        width: 200px;
+    }
+
+    .login > div > img{
+        height: 50px;
+        
+    }
+
+    
+}
